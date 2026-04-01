@@ -13,3 +13,9 @@ Mapped controls to FedRAMP Moderate baseline.
 
 ## Outcome
 Identified key risks in cloud environments.
+
+## Skills Demonstrated
+- Risk Assessment
+- NIST RMF
+- Vulnerability Analysis
+- Security Monitoring
